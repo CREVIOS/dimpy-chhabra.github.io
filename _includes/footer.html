@@ -6,8 +6,9 @@
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.location }}</h3>
                         <p>
-                            Gurgugram
-                                HR, India <br>
+                            You'll either find me @IGDTUW,<br> kashmere Gate, Delhi<br>
+                                or at Gurugram, HR <br>
+								or anywhere else where their is a stable WiFi connection<br>and something to eat.
 		                    
                         </p>
                     </div>
@@ -16,14 +17,14 @@
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                <a href="linkedin.com/in/dimpy-chhabra" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a> <!-- {{ network.url }} -->
                             </li>
 		                    {% endfor %}
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
-                        <p>Dimpy Chhabra 2017</p>
+                        <p>Theme extracted from https://startbootstrap.com. Kudos to those guys! :D</p>
                     </div>
                 </div>
             </div>
@@ -32,7 +33,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; {{ site.footer.copyright }} 20{{ site.time | date: '%y' }}
+                        Copyright &copy; Dimpy Chhabra 20{{ site.time | date: '%y' }}
                     </div>
                 </div>
             </div>
