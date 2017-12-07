@@ -6,17 +6,17 @@
   gh_user: dimpy-chhabra
   repo: Perkey
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project.
+  desc: Developed IOT applications by using Intel Edison with Spark fun Blocks & RasPi2 with multiple sensors to detect a car's presence over a parking spot and automate the parking procedure via two android Applications.
 
 - name: Capo
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: dimpy-chhabra
+  repo: Capo_CarPoolingApp
   img: /static/assets/img/landing/python.png
-  desc: This project is a project.
+  desc: An Android application to implement car pooling for college students named 'Capo', using Android Studio Developer 2.3, Core Java, Android Libraries- Volley and JSON Parsing, Core- PHP, Google maps and places API, MySQL.
 
 - name: My Mess
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: The project was a core java application inculcating many core java functionalities to mimic an e-Commerce model for a university cafeteria, in Netbeans, using AWT-Swing and MySQL on Microsoft Windows 10.
