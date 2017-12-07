@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Spotlight
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Spotlight is an e-magazine focused to bring out people in the lime light. I have been working here as a Graphics Intern. Primarily working in Adobe Photoshop CC 2015, I also have some hands on experience in crowd sourcing.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: June '16 - Dec. '16
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Graphics Intern
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: STP8 (spons. Microsoft)
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Undertook a summer training organised by the Dept. of Computer Science Engineering, in collaboration with Microsoft, Finland. It is a two month training program entitled, "Build Your Own Smart Device".
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: June '17 - July '17
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: IOT Trainee
     i18n: company_b_job
   icon: fa-plus-square
