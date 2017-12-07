@@ -6,7 +6,7 @@
 
 <https://jarrekk.github.io/Jalpc/>
 
-<http://www.dimpychhabra.co>  -- Personal website
+<http://www.jarrekk.com>  -- Personal website
 
 ![Blog](https://github.com/jarrekk/Jalpc/raw/master/readme_files/Jalpc.png)
 

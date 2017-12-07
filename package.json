@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+github.com/dimpy-chhabra/dimpy-chhabra.github.io"
+    "url": "git+https://github.com/jarrekk/Jalpc.git"
   },
-  "author": "Dimpy Chhabra",
+  "author": "Kun Jia",
   "license": "MIT",
   "bugs": {
-    "url": "github.com/dimpy-chhabra/dimpy-chhabra.github.io/issues"
+    "url": "https://github.com/jarrekk/Jalpc/issues"
   },
-  "homepage": "github.com/dimpy-chhabra/dimpy-chhabra.github.io#readme",
+  "homepage": "https://github.com/jarrekk/Jalpc#readme",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",
