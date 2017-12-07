@@ -22,3 +22,9 @@
   img: /static/assets/img/landing/google.png
   desc: The project was a core java application inculcating many core java functionalities to mimic an e-Commerce model for a university cafeteria, in Netbeans, using AWT-Swing and MySQL on Microsoft Windows 10.
  
+- name: Knapsack
+  i18n: google
+  gh_user: dimpy-chhabra
+  repo: letsSteal
+  img: /static/assets/img/landing/google.png
+  desc: Developed an app in Android Studio Developer, implementing the Fractional Knapsack problem as a stealing game. The App was selected as the best app amongst all BTech students at the code sprint.
