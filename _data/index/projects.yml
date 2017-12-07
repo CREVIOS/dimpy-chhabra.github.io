@@ -3,8 +3,8 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Perkey
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: dimpy-chhabra
+  repo: Perkey
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project.
 
