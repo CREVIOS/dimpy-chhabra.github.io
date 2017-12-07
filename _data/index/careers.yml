@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Developer
+    detail: ACM Student Chapter- Igdtuw
     i18n: ACM Student Chapter- Igdtuw
   desc:
     detail: At ACM- student Chapter IGDTUW, we work as peers with a common vision of growing together. We conduct expert speaker sessions and ourselves hold workshops as well on new technologies.
     i18n: Association for Computing Machinery
   date:
-    detail: Dec. 2016
+    detail: Dec. '16 (present)
     i18n: company_date
   job:
     detail: Developer | Fellow Educator
@@ -15,15 +15,43 @@
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Startup Village
+    i18n: #StartInCollege
   desc:
-    detail: I worked at Company B ...
+    detail: StartInCollege is an initiative by Startup Village. Startup Village is ranked as the #1 digital incubator in India. A competition is held every year by Startup Village across the nation where a web development and video task is assigned to teams.  The website and the reach of the video is evaluated as the selection criteria to pursue the course on Entrepreneurship.  I was the UI n UX developer for the team of four. We were selected through the various interviews after the website and video task for the course.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Aug. '16 - Dec. '16
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: UI & UX Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Spotlight
+    i18n: Startup By Rashmeet Kaur
+  desc:
+    detail: Spotlight is an e-magazine focused to bring out people in the lime light. I have been working here as a Graphics Intern. Primarily working in Adobe Photoshop CC 2015, I also have some hands on experience in crowd sourcing.
+    i18n: company_b_desc
+  date:
+    detail: June '16 - Dec. '16
+    i18n: company_b_date
+  job:
+    detail: Graphics Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+   - name:
+    detail: STP8 (spons. Microsoft)
+    i18n: IOT Course
+  desc:
+    detail: Undertook a summer training organised by the Dept. of Computer Science Engineering, in collaboration with Microsoft, Finland. It is a two month training program entitled, "Build Your Own Smart Device".
+    i18n: company_b_desc
+  date:
+    detail: June '17 - July '17
+    i18n: company_b_date
+  job:
+    detail: Summer Trainee
     i18n: company_b_job
   icon: fa-plus-square
