@@ -11,7 +11,7 @@
 - name: Capo Car Pooling Android App
   i18n: cpython
   gh_user: dimpy-chhabra
-  repo: Capo_CarPoolingApp
+  repo: Capo
   img: /static/assets/img/landing/python.png
   desc: An Android app to implement car pooling for college students named 'Capo', using Android Studio Developer 2.3, Core Java, Android Libraries- Volley and JSON Parsing, Core- PHP, Google maps and places API, MySQL.
 
