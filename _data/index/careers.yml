@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Developer
+    i18n: ACM Student Chapter- Igdtuw
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: At ACM- student Chapter IGDTUW, we work as peers with a common vision of growing together. We conduct expert speaker sessions and ourselves hold workshops as well on new technologies.
+    i18n: Association for Computing Machinery
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Dec. 2016
+    i18n: company_date
   job:
-    detail: CTO
+    detail: Developer | Fellow Educator
     i18n: company_a_job
   icon: fa-plus-square
 
