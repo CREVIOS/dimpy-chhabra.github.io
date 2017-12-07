@@ -1,23 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Perkey
+- name: Jalpc
   i18n: jalpc
-  gh_user: dimpy-chhabra
-  repo: Perkey
+  gh_user: jarrekk
+  repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: Developed IOT applications by using Intel Edison with Spark fun Blocks & RasPi2 with multiple sensors to detect a car's presence over a parking spot and automate the parking procedure via two android Applications.
+  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Capo
+- name: Python
   i18n: cpython
-  gh_user: dimpy-chhabra
-  repo: Capo_CarPoolingApp
+  gh_user: python
+  repo: cpython
   img: /static/assets/img/landing/python.png
-  desc: An Android application to implement car pooling for college students named 'Capo', using Android Studio Developer 2.3, Core Java, Android Libraries- Volley and JSON Parsing, Core- PHP, Google maps and places API, MySQL.
+  desc: This project is other's project. I use another request to get repo's information.
 
-- name: My Mess
+- name: Google
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: The project was a core java application inculcating many core java functionalities to mimic an e-Commerce model for a university cafeteria, in Netbeans, using AWT-Swing and MySQL on Microsoft Windows 10.
-  
+  desc: This is another project.
