@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: ACM Student Chapter- Igdtuw
-    i18n: ACM Student Chapter- Igdtuw
+    detail: Company A
+    i18n: company_a
   desc:
-    detail: At ACM- student Chapter IGDTUW, we work as peers with a common vision of growing together. We conduct expert speaker sessions and ourselves hold workshops as well on new technologies.
-    i18n: Association for Computing Machinery
+    detail: I worked at Company A ...
+    i18n: company_a_desc
   date:
-    detail: Dec. '16 (present)
-    i18n: company_date
+    detail: Apr. 2016
+    i18n: company_a_date
   job:
-    detail: Developer | Fellow Educator
+    detail: CTO
     i18n: company_a_job
   icon: fa-plus-square
 
-  - name:
-    detail: Spotlight
-    i18n: Startup By Rashmeet Kaur
+- name:
+    detail: Company B
+    i18n: company_b
   desc:
-    detail: Spotlight is an e-magazine focused to bring out people in the lime light. I have been working here as a Graphics Intern. Primarily working in Adobe Photoshop CC 2015, I also have some hands on experience in crowd sourcing.
+    detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: June '16 - Dec. '16
+    detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Graphics Intern
+    detail: Full Stack Developer
     i18n: company_b_job
   icon: fa-plus-square
