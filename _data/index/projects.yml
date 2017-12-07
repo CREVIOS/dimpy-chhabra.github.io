@@ -6,7 +6,7 @@
   gh_user: dimpy-chhabra
   repo: Perkey
   img: /static/assets/img/landing/jekyll.png
-  desc: Developed IOT applications by using Intel Edison with Spark fun Blocks & RasPi2 with multiple sensors to detect a car's presence over a parking spot and automate the parking procedure via two android Applications.
+  desc: Presented at Intel Higher Education Challenge and ranked 6th all over India. Developed IOT applications by using Intel Edison with Spark fun Blocks & RasPi2 with multiple sensors to detect a car's presence over a parking spot and automate the parking procedure via two android Applications.
 
 - name: Capo Car Pooling Android App
   i18n: cpython
@@ -27,7 +27,7 @@
   gh_user: dimpy-chhabra
   repo: letsSteal
   img: /static/assets/img/landing/knapsack.png
-  desc: Developed an app in Android Studio Developer, implementing the Fractional Knapsack problem as a stealing game. The App was selected as the best app amongst all BTech students at the code sprint.
+  desc: Presented at GOOGLE CS Code sprint and ranked 2nd across University (IGDTU). Developed an app in Android Studio Developer, implementing the Fractional Knapsack problem as a stealing game. The App was selected as the best app amongst all BTech students at the code sprint.
   
 - name: My French App
   i18n: google
