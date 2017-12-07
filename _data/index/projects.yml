@@ -22,17 +22,3 @@
   img: /static/assets/img/landing/google.png
   desc: The project was a core java application inculcating many core java functionalities to mimic an e-Commerce model for a university cafeteria, in Netbeans, using AWT-Swing and MySQL on Microsoft Windows 10.
  
-- name: Knapsack
-  i18n: google
-  gh_user: dimpy-chhabra
-  repo: letsSteal
-  img: /static/assets/img/landing/knapsack.png
-  desc: Developed an app in Android Studio Developer, implementing the Fractional Knapsack problem as a stealing game. The App was selected as the best app amongst all BTech students at the code sprint.
-  
-  - name: My French App
-  i18n: google
-  gh_user: dimpy-chhabra
-  repo: MyFrenchApp
-  img: /static/assets/img/landing/eiffel.png
-  desc: An Android Application with French salutations, colors, and numbers. Each word comes with a descriptive image and audio file. The audio files are managed by media player class and audio control to look into clashing audio files.
-  
