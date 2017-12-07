@@ -20,3 +20,9 @@
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: The project was a core java application inculcating many core java functionalities to mimic an e-Commerce model for a university cafeteria, in Netbeans, using AWT-Swing and MySQL on Microsoft Windows 10.
+  
+- name: Knapsack
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: Another Project
