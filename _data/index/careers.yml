@@ -27,3 +27,17 @@
     detail: IOT Trainee
     i18n: company_b_job
   icon: fa-plus-square
+  
+- name:
+    detail: STP8 (spons. Microsoft)
+    i18n: company_b
+  desc:
+    detail: Undertook a summer training organised by the Dept. of Computer Science Engineering, in collaboration with Microsoft, Finland. It is a two month training program entitled, "Build Your Own Smart Device".
+    i18n: company_b_desc
+  date:
+    detail: June '17 - July '17
+    i18n: company_b_date
+  job:
+    detail: IOT Trainee
+    i18n: company_b_job
+  icon: fa-plus-square  
