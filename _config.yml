@@ -1,63 +1,70 @@
-# Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+# Welcome to Jekyll!
 
-# Google webmaster tools
-google_verify:
+# Website settings
+title: Dimpy
+description: Jack's blog,use Jekyll and github pages.
+keywords: dimpy,dimpyc,dimpychhabra,blog,github,gh-pages
+baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+url: https://dimpy-chhabra.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
+# url: http://127.0.0.1:4000
+img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# author -- index page "about me" section
+author:  # change following line to your infomation.
+  name: Dimpy Chhabra  # Be used at blog posts' author.
+  first_name: Dimpy  # Be used at index page about me section.
+  last_name: Chhabra  # Be used at index page about me section.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  github_username: dimpy-chhabra  # Leave blank if you don't have now
+  linkedin_id: /in/dimpy-chhabra # Leave blank if you don't have now
+  facebook_username: dimpychhabra20  # Leave blank if you don't have now
+  twitter_username:   # Leave blank if you don't have now
+  email: dimpychhabra@yahoo.co.uk  # Leave blank if you don't have now
+  cv: https://drive.google.com/file/d/1G67XVR1GIMk-6wPAgzHyKjAoC5mspJtC/view?usp=sharing  # An online CV can be printed as PDF, leave blank if you don't have now
+  # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
+  skill_icon1:
+    - name: icon-apache
+    - name: fa-linux
+  skill_icon2:
+    - name: fa-linux
+    - name: icon-apache
+  desc: Introduce myself will be here.  # Describe yourself.
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# comment
+disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
+  name: dimpy
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  # id:
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+## google optimize
+go:
+  # id:
 
-# Footer settings
-footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+## growingIO
+gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your configuration; if not, comment following line.
+  # id:
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+## donation
+donation: on  # type 'on'/'off' to choice display donation button at post page or not
 
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
 
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# scss
+sass:
+  style: compressed
 
 # Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
 markdown: kramdown
-permalink: pretty
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
