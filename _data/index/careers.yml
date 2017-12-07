@@ -14,20 +14,6 @@
     i18n: company_a_job
   icon: fa-plus-square
 
-- name:
-    detail: Startup Village
-    i18n: #StartInCollege
-  desc:
-    detail: StartInCollege is an initiative by Startup Village. Startup Village is ranked as the #1 digital incubator in India. A competition is held every year by Startup Village across the nation where a web development and video task is assigned to teams.  The website and the reach of the video is evaluated as the selection criteria to pursue the course on Entrepreneurship.  I was the UI n UX developer for the team of four. We were selected through the various interviews after the website and video task for the course.
-    i18n: company_b_desc
-  date:
-    detail: Aug. '16 - Dec. '16
-    i18n: company_b_date
-  job:
-    detail: UI & UX Developer
-    i18n: company_b_job
-  icon: fa-plus-square
-  
   - name:
     detail: Spotlight
     i18n: Startup By Rashmeet Kaur
@@ -39,19 +25,5 @@
     i18n: company_b_date
   job:
     detail: Graphics Intern
-    i18n: company_b_job
-  icon: fa-plus-square
-  
-   - name:
-    detail: STP8 (spons. Microsoft)
-    i18n: IOT Course
-  desc:
-    detail: Undertook a summer training organised by the Dept. of Computer Science Engineering, in collaboration with Microsoft, Finland. It is a two month training program entitled, "Build Your Own Smart Device".
-    i18n: company_b_desc
-  date:
-    detail: June '17 - July '17
-    i18n: company_b_date
-  job:
-    detail: Summer Trainee
     i18n: company_b_job
   icon: fa-plus-square
