@@ -1,14 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Perkey
+- name: Perkey : Parking Mangement IOT Application
   i18n: jalpc
   gh_user: dimpy-chhabra
   repo: Perkey
   img: /static/assets/img/landing/jekyll.png
   desc: Developed IOT applications by using Intel Edison with Spark fun Blocks & RasPi2 with multiple sensors to detect a car's presence over a parking spot and automate the parking procedure via two android Applications.
 
-- name: Capo
+- name: Capo: Car Pooling Android App
   i18n: cpython
   gh_user: dimpy-chhabra
   repo: Capo_CarPoolingApp
@@ -20,4 +20,11 @@
   url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: The project was a core java application inculcating many core java functionalities to mimic an e-Commerce model for a university cafeteria, in Netbeans, using AWT-Swing and MySQL on Microsoft Windows 10.
+ 
+- name: KnapSack
+  i18n: google
+  url: https://google.com
+  img: /static/assets/img/landing/google.png
+  desc: The Google CS code sprint Winning App.
+  
   
