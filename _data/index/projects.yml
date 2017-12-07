@@ -6,18 +6,17 @@
   gh_user: jarrekk
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
-
-- name: My Mess
-  i18n: cpython
-  gh_user: dimpy-chhabra
-  repo: MyMess
-  img: /static/assets/img/landing/python.png
-  desc: desc: Worked on core JAVA concepts to build an 'Eatables-Management System' named 'MyMess', in Netbeans using AWT-Swing and MySQL on Microsoft Windows 10. It implements a cart mechanism, billing, editing, browsing etc.
-  
+  desc: This project is my project.
 
 - name: Capo
+  i18n: cpython
+  gh_user: python
+  repo: cpython
+  img: /static/assets/img/landing/python.png
+  desc: This project is a project.
+
+- name: My Mess
   i18n: google
-  url: https://github.com/dimpy-chhabra/Capo_CarPoolingApp
+  url: https://google.com
   img: /static/assets/img/landing/google.png
   desc: This is another project.
