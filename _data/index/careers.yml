@@ -17,6 +17,20 @@
   icon: fa-plus-square
   
 - name:
+    detail: Google CS
+    i18n: company_a
+  desc:
+    detail: A week long training was conducted by Google CS at IGDTUW from May 29th, '17 on Data Structures and Algorithms, where we worked on Arraylists, Hashmaps and Hashsets to implement graphs and tree. We developed various games over the course of the first six days, including Scarne's Dice, Ghost etc. 
+    i18n: company_a_desc
+  date:
+    detail: June '17 
+    i18n: company_a_date
+  job:
+    detail: Student | Developer | Trainee
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: ACM Student Chapter- Igdtuw
     i18n: ACM Student Chapter- Igdtuw
   desc:
@@ -71,21 +85,7 @@
     detail: Core Team Member
     i18n: company_b_job
   icon: fa-plus-square
-  
-- name:
-    detail: Google CS
-    i18n: company_a
-  desc:
-    detail: A week long training was conducted by Google CS at IGDTUW from May 29th, '17 on Data Structures and Algorithms, where we worked on Arraylists, Hashmaps and Hashsets to implement graphs and tree. We developed various games over the course of the first six days, including Scarne's Dice, Ghost etc. 
-    i18n: company_a_desc
-  date:
-    detail: June '17 
-    i18n: company_a_date
-  job:
-    detail: Student | Developer | Trainee
-    i18n: company_a_job
-  icon: fa-plus-square
-  
+    
 - name:
     detail: ION Tata Training Partner
     i18n: company_a
