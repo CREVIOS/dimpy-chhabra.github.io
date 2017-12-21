@@ -1,18 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: Spotlight
-    i18n: company_a
-  desc:
-    detail: Spotlight is an e-magazine focused to bring out people in the lime light. I have been working here as a Graphics Intern. Primarily working in Adobe Photoshop CC 2015, I also have some hands on experience in crowd sourcing.
-    i18n: company_a_desc
-  date:
-    detail: June '16 - Dec. '16
-    i18n: company_a_date
-  job:
-    detail: Graphics Intern
-    i18n: company_a_job
-  icon: fa-plus-square
+
 
 - name:
     detail: STP8 (spons. Microsoft)
@@ -40,20 +28,6 @@
   job:
     detail: Developer | Fellow Educator
     i18n: company_a_job
-  icon: fa-plus-square
-
-- name:
-    detail: Startup Village
-    i18n: #StartInCollege
-  desc:
-    detail: StartInCollege is an initiative by Startup Village. Startup Village is ranked as the #1 digital incubator in India. A competition is held every year by Startup Village across the nation where a web development and video task is assigned to teams.  The website and the reach of the video is evaluated as the selection criteria to pursue the course on Entrepreneurship.  I was the UI n UX developer for the team of four. We were selected through the various interviews after the website and video task for the course.
-    i18n: company_b_desc
-  date:
-    detail: Aug. '16 - Dec. '16
-    i18n: company_b_date
-  job:
-    detail: UI & UX Developer
-    i18n: company_b_job
   icon: fa-plus-square
   
 - name:
@@ -140,6 +114,34 @@
     detail: Creative Team Member
     i18n: company_a_job
   icon: fa-plus-square    
+
+- name:
+    detail: Startup Village
+    i18n: #StartInCollege
+  desc:
+    detail: StartInCollege is an initiative by Startup Village. Startup Village is ranked as the #1 digital incubator in India. A competition is held every year by Startup Village across the nation where a web development and video task is assigned to teams.  The website and the reach of the video is evaluated as the selection criteria to pursue the course on Entrepreneurship.  I was the UI n UX developer for the team of four. We were selected through the various interviews after the website and video task for the course.
+    i18n: company_b_desc
+  date:
+    detail: Aug. '16 - Dec. '16
+    i18n: company_b_date
+  job:
+    detail: UI & UX Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Spotlight
+    i18n: company_a
+  desc:
+    detail: Spotlight is an e-magazine focused to bring out people in the lime light. I have been working here as a Graphics Intern. Primarily working in Adobe Photoshop CC 2015, I also have some hands on experience in crowd sourcing.
+    i18n: company_a_desc
+  date:
+    detail: June '16 - Dec. '16
+    i18n: company_a_date
+  job:
+    detail: Graphics Intern
+    i18n: company_a_job
+  icon: fa-plus-square  
   
 - name:
     detail: Robohut
@@ -148,7 +150,7 @@
     detail: I learnt basics of Android App development using Android Developer Studio 2.1.3 and made a calculator and phone manager app.
     i18n: company_a_desc
   date:
-    detail: Jan '16 - Feb '17
+    detail: Jan '16 - Feb '16
     i18n: company_a_date
   job:
     detail: Student | Trainee

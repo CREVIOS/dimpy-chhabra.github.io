@@ -39,5 +39,4 @@ function getHtml() {
 
     return cleanHTML(code).replace(/</gi, "&lt;").replace(/>/gi, "&gt;");;
     //code = $.tabifier(code, "HTML").replace(/</gi, "&lt;").replace(/>/gi, "&gt;");
-
 }
