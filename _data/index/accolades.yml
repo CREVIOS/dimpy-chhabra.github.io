@@ -1,12 +1,13 @@
+- name: Google CS
+  i18n: Winner of Code Sprint
+  gh_user:
+  repo: 
+  img: /static/assets/img/landing/jekyll.png
+  desc: A code sprint was conducted across all batches of IGDTUW in which my team bagged the first position amongst all BTech courses and the second position across the University. We built a game out of the Fractional Knapsack Problem.
 
-- last_name: Google CS
-  first_name: Winner of Code Sprint
-  desc: descriptionA code sprint was conducted across all batches of IGDTUW in which my team bagged the first position amongst all BTech courses and the second position across the University. We built a game out of the Fractional Knapsack Problem.
-  website: 
-  email: 
-
-- last_name: Intel Higher Education Challenge
-  first_name: 6th All over India
+- name: Intel Higher Education Challenge
+  i18n: 6th Rank All over India
+  gh_user:
+  repo: 
+  img: /static/assets/img/landing/jekyll.png
   desc: Thousands of teams applied with their ideas for the Intel Higher Education Challenge '17 on "Cyber Physical Systems", out of which top 180 ideas were provided with "Intel Edison with Sparkfun kit" to build a prototype and share a video of the working demonstration.  Top 40 teams were filtered out on those basis and invited to SJBIT Bengaluru for a "Rapid Prototyping Camp", where we built the prototype with additional features and thusly presented to various judges from Intel India! The Smart Parking System stood 6th all over India.
-  website: fice.in/top-10-teams-of-the-RPC.php
-  email: 
