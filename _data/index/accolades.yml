@@ -1,6 +1,6 @@
 - name: Google CS
   i18n: 
-  tag_acc: Winner of Code Sprint
+  tag_acc: 2nd Rank All over University
   gh_user:
   repo: 
   img: /static/assets/img/landing/googlecs.png
@@ -10,7 +10,7 @@
   i18n: 
   tag_acc: 6th Rank All over India
   gh_user:
-  url: www.google.com
+  url: http://www.fice.in/top-10-teams-of-the-RPC.php
   repo: 
   img: /static/assets/img/landing/intel.png
   desc: Thousands of teams applied with their ideas for the Intel Higher Education Challenge '17 on "Cyber Physical Systems", out of which top 180 ideas were provided with "Intel Edison with Sparkfun kit" to build a prototype and share a video of the working demonstration.  Top 40 teams were filtered out on those basis and invited to SJBIT Bengaluru for a "Rapid Prototyping Camp", where we built the prototype with additional features and thusly presented to various judges from Intel India! The Smart Parking System stood 6th all over India.
