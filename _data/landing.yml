@@ -36,3 +36,9 @@
   name: Links
   tpl: links.html
   css: contact
+
+- id: acco
+  i18n: nav.acco
+  name: Accolades
+  tpl: accolades.html
+  css: contact  
