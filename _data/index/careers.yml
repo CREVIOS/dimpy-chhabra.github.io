@@ -34,15 +34,15 @@
     detail: ACM Student Chapter- Igdtuw
     i18n: ACM Student Chapter- Igdtuw
   desc:
-    detail: At ACM- student Chapter IGDTUW, we work as peers with a common vision of growing together. We conduct expert speaker sessions and ourselves hold workshops as well on new technologies.
+    detail: At ACM- student Chapter IGDTUW, we work as peers with a common vision of growing together. We conduct expert speaker sessions and ourselves hold workshops as well on new technologies. I personally take sessions on Android App Dev, IOT, and machine learning.
     i18n: Association for Computing Machinery
   date:
     detail: Dec. '16 (present)
     i18n: company_date
   job:
-    detail: Developer | Fellow Educator
+    detail: Chairperson | Mentor
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fas fa-check-circle
   
 - name:
     detail: Computer Society of India- IGDTUW
@@ -56,7 +56,7 @@
   job:
     detail: Event Management Head
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fas fa-check-circle
   
 - name:
     detail: Training & Placement IGDTUW
@@ -70,7 +70,7 @@
   job:
     detail: Developer
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fas fa-badge-check
   
 - name:
     detail: Entrepreneurship Development Cell- IGDTUW
@@ -84,7 +84,7 @@
   job:
     detail: Core Team Member
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fas fa-badge-check
     
 - name:
     detail: ION Tata Training Partner
@@ -113,7 +113,7 @@
   job:
     detail: Creative Team Member
     i18n: company_a_job
-  icon: fa-plus-square    
+  icon: fas fa-badge-check   
 
 - name:
     detail: Startup Village
