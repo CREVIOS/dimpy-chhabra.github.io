@@ -15,3 +15,12 @@
   img: /static/assets/img/landing/intel.png
   desc: Thousands of teams applied with their ideas for the Intel Higher Education Challenge '17 on "Cyber Physical Systems", out of which top 180 ideas were provided with "Intel Edison with Sparkfun kit" to build a prototype and share a video of the working demonstration.  
   Top 40 teams were filtered out on those basis and invited to SJBIT Bengaluru for a "Rapid Prototyping Camp", where we built the prototype with additional features and thusly presented to various judges from Intel India! The Smart Parking System stood 6th all over India.
+
+- name: Recipient of Google India Challenge Scholarship ‘18
+  i18n: 
+  tag_acc: One amongst 150 recipients of Mobile Web Specialist track, in India.
+  gh_user:
+  url: https://in.udacity.com/google-india-scholarships
+  repo: 
+  img: /static/assets/img/landing/udacity.jpg
+  desc: I am one amongst 150 recipients of Mobile Web Specialist track, in India.
