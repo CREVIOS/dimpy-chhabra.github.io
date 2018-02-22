@@ -14,7 +14,7 @@
   job:
     detail: IOT Trainee
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: far fa-check
   
 - name:
     detail: Google CS
@@ -28,7 +28,7 @@
   job:
     detail: Student | Developer | Trainee
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: far fa-check
 
 - name:
     detail: ACM Student Chapter- Igdtuw
@@ -56,21 +56,8 @@
   job:
     detail: Event Management Head
     i18n: company_b_job
-  icon: fas fa-check-circle
+  icon: far fa-check
   
-- name:
-    detail: Training & Placement IGDTUW
-    i18n: TnP IGDTUW
-  desc:
-    detail: Working as a java developer at Training and Placement Department at IGDTUW. We are presently working on a web portal to facilitate the placement process in our college. Future Goal include of Android App Devlopment!
-    i18n: company_b_desc
-  date:
-    detail: May '17 (present)
-    i18n: company_b_date
-  job:
-    detail: Developer
-    i18n: company_b_job
-  icon: fas fa-check-circle
   
 - name:
     detail: Entrepreneurship Development Cell- IGDTUW
@@ -84,7 +71,7 @@
   job:
     detail: Core Team Member
     i18n: company_b_job
-  icon: fas fa-check-circle
+  icon: far fa-check
     
 - name:
     detail: ION Tata Training Partner
@@ -98,7 +85,7 @@
   job:
     detail: Student | Trainee
     i18n: company_a_job
-  icon: fa-plus-square  
+  icon: far fa-check  
   
   
 - name:
@@ -113,7 +100,7 @@
   job:
     detail: Creative Team Member
     i18n: company_a_job
-  icon: fas fa-badge-check   
+  icon: far fa-check   
 
 - name:
     detail: Startup Village
@@ -141,7 +128,7 @@
   job:
     detail: Graphics Intern
     i18n: company_a_job
-  icon: fa-plus-square  
+  icon: far fa-check  
   
 - name:
     detail: Robohut
@@ -155,4 +142,4 @@
   job:
     detail: Student | Trainee
     i18n: company_a_job
-  icon: fa-plus-square    
+  icon: far fa-check
