@@ -17,9 +17,9 @@
 
 - name: Recipient of Google India Challenge Scholarship ‘18
   i18n: 
-  tag_acc: One amongst 150 recipients of Mobile Web Specialist track, in India.
+  tag_acc: Scholarship
   gh_user:
   url: https://in.udacity.com/google-india-scholarships
   repo: 
   img: /static/assets/img/landing/udacity.jpg
-  desc: I am one amongst 150 recipients of Mobile Web Specialist track, in India.
+  desc: One amongst the 150 recipients of Mobile Web Specialist Track, in India.

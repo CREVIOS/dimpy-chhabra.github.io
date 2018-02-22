@@ -16,6 +16,13 @@
   img: /static/assets/img/landing/python.png
   desc: An Android app to implement car pooling for college students named 'Capo', using Android Studio Developer 2.3, Core Java, Android Libraries- Volley and JSON Parsing, Core- PHP, Google maps and places API, MySQL.
 
+- name: My Pizza Bot
+  i18n: Dialog Flow
+  gh_user: dimpy-chhabra
+  repo: Pizza-Bot
+  img: /static/assets/img/landing/bot.png
+  desc: A bot built in Dialog Flow and connected with Node JS server to make a communication between customer and sending the order details to a REST Api
+  
 - name: My Mess
   i18n: google
   gh_user: dimpy-chhabra
