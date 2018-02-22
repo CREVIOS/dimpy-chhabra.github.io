@@ -20,7 +20,7 @@
   i18n: Dialog Flow
   gh_user: dimpy-chhabra
   repo: Pizza-Bot
-  img: /static/assets/img/landing/bot.png
+  img: /static/assets/img/landing/bot.jpg
   desc: A bot built in Dialog Flow and connected with Node JS server to make a communication between customer and sending the order details to a REST Api
   
 - name: My Mess
