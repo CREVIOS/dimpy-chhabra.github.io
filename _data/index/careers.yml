@@ -42,7 +42,7 @@
   job:
     detail: Chairperson | Mentor
     i18n: company_a_job
-  icon: fas fa-check-circle
+  icon: fas fa-star
   
 - name:
     detail: Computer Society of India- IGDTUW
@@ -70,7 +70,7 @@
   job:
     detail: Developer
     i18n: company_b_job
-  icon: fas fa-badge-check
+  icon: fas fa-check-circle
   
 - name:
     detail: Entrepreneurship Development Cell- IGDTUW
@@ -84,7 +84,7 @@
   job:
     detail: Core Team Member
     i18n: company_b_job
-  icon: fas fa-badge-check
+  icon: fas fa-check-circle
     
 - name:
     detail: ION Tata Training Partner
