@@ -23,14 +23,14 @@
   img: /static/assets/img/landing/bot.jpg
   desc: A bot built in Dialog Flow and connected with Node JS server to make a communication between customer and sending the order details to a REST Api
 
-- name: Whemsley
+- name: Whemsley (on Going)
   i18n: google
   gh_user: dimpy-chhabra
   repo: 
   img: /static/assets/img/landing/whemsley.png
   desc: An IoT based smart Warehouse management system.
     
-- name: 'Sup?
+- name: 'Sup? (on Going)
   i18n: google
   gh_user: dimpy-chhabra
   repo: 

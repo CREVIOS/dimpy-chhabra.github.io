@@ -14,50 +14,20 @@
     detail: Chairperson | Mentor
     i18n: company_a_job
   icon: fas fa-star
-
-- name:
-    detail: STP8 (spons. Microsoft)
-    i18n: company_b
+  
+ - name:
+    detail: Full Stack Intern at SHOPCLIX
+    i18n: startup
   desc:
-    detail: Undertook a summer training organised by the Dept. of Computer Science Engineering, in collaboration with Microsoft, Finland. It is a two month training program entitled, "Build Your Own Smart Device".
+    detail: Developed an Android Application for managing the delivery of merchandise for the end user.
     i18n: company_b_desc
   date:
-    detail: June '17 - July '17
+    detail: March '17 - Oct '17
     i18n: company_b_date
   job:
-    detail: IOT Trainee
+    detail: Android App Developer
     i18n: company_b_job
   icon: far fa-check
-  
-- name:
-    detail: Google CS
-    i18n: company_a
-  desc:
-    detail: A week long training was conducted by Google CS at IGDTUW from May 29th, '17 on Data Structures and Algorithms, where we worked on Arraylists, Hashmaps and Hashsets to implement graphs and tree. We developed various games over the course of the first six days, including Scarne's Dice, Ghost etc. 
-    i18n: company_a_desc
-  date:
-    detail: June '17 
-    i18n: company_a_date
-  job:
-    detail: Student | Developer | Trainee
-    i18n: company_a_job
-  icon: far fa-check
-
-  
-- name:
-    detail: Computer Society of India- IGDTUW
-    i18n: College Soc
-  desc:
-    detail: CSI IGDTUW is the student branch of CSI of Indira Gandhi Delhi Technical University for Women. Computer society of India (CSI) is the first and largest body of computer professionals in India. 1. Conduct Technical Events in the institution 2. Foster a coding environment in campus
-    i18n: company_b_desc
-  date:
-    detail: Aug '17 (present)
-    i18n: company_b_date
-  job:
-    detail: Event Management Head
-    i18n: company_b_job
-  icon: far fa-check
-  
   
 - name:
     detail: Entrepreneurship Development Cell- IGDTUW
@@ -73,21 +43,6 @@
     i18n: company_b_job
   icon: far fa-check
     
-- name:
-    detail: ION Tata Training Partner
-    i18n: company_a
-  desc:
-    detail: Undertook training in Android App Development in Android Developer Studio 2.3.2 (in JAVA). It was a three-month training program that covered front end designing, backend database connectivity to servers( using Volley framework), JSON parsing, Google APIs and an introduction to firebase.
-    i18n: company_a_desc
-  date:
-    detail: Jan '17 - March '17
-    i18n: company_a_date
-  job:
-    detail: Student | Trainee
-    i18n: company_a_job
-  icon: far fa-check  
-  
-  
 - name:
     detail: TEDx IGDTU
     i18n: company_a
@@ -129,17 +84,3 @@
     detail: Graphics Intern
     i18n: company_a_job
   icon: far fa-check  
-  
-- name:
-    detail: Robohut
-    i18n: company_a
-  desc:
-    detail: I learnt basics of Android App development using Android Developer Studio 2.1.3 and made a calculator and phone manager app.
-    i18n: company_a_desc
-  date:
-    detail: Jan '16 - Feb '16
-    i18n: company_a_date
-  job:
-    detail: Student | Trainee
-    i18n: company_a_job
-  icon: far fa-check
