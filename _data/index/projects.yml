@@ -30,7 +30,7 @@
   img: /static/assets/img/landing/whemsley.png
   desc: An IoT based smart Warehouse management system.
     
-- name: 'Sup? (on Going)
+- name: Sup (on Going)
   i18n: google
   gh_user: dimpy-chhabra
   repo: 
