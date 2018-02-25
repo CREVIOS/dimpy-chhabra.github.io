@@ -2,6 +2,20 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Winter Workshop on Data Science and Visualization
+    i18n: company_b
+  desc:
+    detail: Undertook a winter training organised by the ACM- Student Chapter of IGDTU. It is a one week program where we worked our way up from data preparation, data visualization, data science and machine learning. We worked on Data Fetched from various APIs like Facebook and Twitter.
+    i18n: company_b_desc
+  date:
+    detail: December '17
+    i18n: company_b_date
+  job:
+    detail: Trainee | Organizer
+    i18n: company_b_job
+  icon: far fa-check
+  
+- name:
     detail: ACM Student Chapter- Igdtuw
     i18n: ACM Student Chapter- Igdtuw
   desc:
