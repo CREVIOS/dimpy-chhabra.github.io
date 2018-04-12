@@ -3,17 +3,21 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/header_1.jpg
-  title: Perkey(At SJBIT Banglore, respresenting IOT based application)
+  title: Hilti IT Comptetion ( At HAITS, Kuala Lumpur, Malaysia)
 
 - src: landing/header_2.jpg
-  title: Dimpy
+  title: ACM Session on Android App Dev
   
 - src: landing/header_3.jpg
-  title: Perkey
+  title: Perkey (At SJBIT Banglore, respresenting IOT based application)
   
 - src: landing/header_4.jpg
-  title: StartInColleg StartupIndia
+  title: Hilti IT Comptetion ( At HAITS, Kuala Lumpur, Malaysia)
   
 - src: landing/header_5.jpg
-  title: ACM- Session On Android
+  title: Dimpy
+  
+- src: landing/header_6.jpg
+  title: Dimpy
+  
   
