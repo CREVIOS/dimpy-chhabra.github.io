@@ -16,7 +16,15 @@
   repo: 
   img: /static/assets/img/landing/udacity.jpg
   desc: Google India Challenege Scholarship provides a scholarship for three month course in the field of Android app Development or Web Development. I was one amongst the 150 recipients of Mobile Web Specialist Track scholarship, in India.
-  
+
+- name: Techgig Code Goddess '18
+  i18n: 
+  tag_acc: Finalist
+  gh_user:
+  url: https://www.techgig.com/geekgoddess
+  repo: 
+  img: /static/assets/img/landing/techgig.png
+  desc: Techgig Code Goddess organized by Accenture is a coding competition organized on Techgig. I was selected for the finals at the Marriott, Bengaluru.
  
 - name: Intel Higher Education Challenge '17
   i18n: 
