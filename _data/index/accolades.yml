@@ -6,7 +6,7 @@
   img: /static/assets/img/landing/googlecs.png
   desc: A code sprint was conducted across all batches of IGDTUW in which my team bagged the first position amongst all BTech courses and the second position across the University. We built a game out of the Fractional Knapsack Problem, called Let's Steal. 
 
-- name: Intel Higher Education Challenge
+- name: Intel Higher Education Challenge '17
   i18n: 
   tag_acc: 6th Rank All over India
   gh_user:
@@ -23,3 +23,13 @@
   repo: 
   img: /static/assets/img/landing/udacity.jpg
   desc: One amongst the 150 recipients of Mobile Web Specialist Track, in India.
+  
+- name: HILTI IT Competition ‘18
+  i18n: 
+  tag_acc: Top 7 teams across the Globe
+  gh_user:
+  url: https://www.hilti.group/content/hilti/CP/XX/en/non-transactional/misc/it-iot-competition.html
+  repo: 
+  img: /static/assets/img/landing/hilti.png
+  desc: Every year Hilti organizes an IT competition to help solve some of the industry’s most pressing problems.  Students and graduates from all over the world join the competition to both prove themselves and to kick-start their careers. It is for students interested in the topics of Internet of Things and Augmented Reality. The top seven Finalist Teams were selected from over 60+ countries and 140+ registrations. They were invited to Hilti Asia IT Services, Kuala Lumpur, Malaysia on an all-expenses paid three day trip to present their product in front of an esteemed panel of judges and meet the team. Our team presented a warehouse security system called ‘Whemsley’ and represented Indira Gandhi Delhi Technical University, as one amongst the two teams from India.
+ 
