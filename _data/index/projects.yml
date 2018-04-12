@@ -2,6 +2,13 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: Whemsley (Hilti IT Competition | Rank- Top 7)
+  i18n: whemsley
+  gh_user: dimpy-chhabra
+  repo: hemsley
+  img: /static/assets/img/landing/whemsley.png
+  desc: Developed a plug and play IOT applications with Android Applications to secure inventory efficiently.
+
 - name: Perkey (Intel Higher Education Challenge | Rank- 6th)
   i18n: perkey
   gh_user: dimpy-chhabra
