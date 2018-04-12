@@ -26,3 +26,19 @@
   img: /static/assets/img/landing/intel.png
   desc: Thousands of teams applied with their ideas for the Intel Higher Education Challenge '17 on "Cyber Physical Systems", out of which top 180 ideas were provided with "Intel Edison with Sparkfun kit" to build a prototype and share a video of the working demonstration.  Top 40 teams were filtered out on those basis and invited to SJBIT Bengaluru for a "Rapid Prototyping Camp", where we built the prototype with additional features and thusly presented to various judges from Intel India! The Smart Parking System stood 6th all over India.
  
+- name: Techgig Code Goddess '18
+  i18n: 
+  tag_acc: Finalist
+  gh_user:
+  url: https://www.techgig.com/geekgoddess
+  repo: 
+  img: /static/assets/img/landing/techgig.png
+  desc: Techgig Code Goddess organized by Accenture is a coding competition organized on Techgig. I was selected for the finals at the Marriott, Bengaluru.
+ 
+- name: Google CS Code Sprint'17
+  i18n: 
+  tag_acc: 2nd Rank All over University
+  gh_user:
+  repo: 
+  img: /static/assets/img/landing/googlecs.png
+  desc: A code sprint was conducted across all batches of IGDTUW in which my team bagged the first position amongst all BTech courses and the second position across the University. We built a game out of the Fractional Knapsack Problem, called Let's Steal. 
