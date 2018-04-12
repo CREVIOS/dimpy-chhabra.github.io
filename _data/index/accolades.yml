@@ -6,7 +6,7 @@
   url: https://www.hilti.group/content/hilti/CP/XX/en/non-transactional/misc/it-iot-competition.html
   repo: 
   img: /static/assets/img/landing/hilti.png
-  desc: Every year Hilti organizes an IT competition to help solve some of the industry’s most pressing problems. The top seven Finalist Teams were selected from over 60+ countries and 140+ registrations. They were invited to Hilti Asia IT Services, Kuala Lumpur, Malaysia on an all-expenses paid three day trip to present their product in front of an esteemed panel of judges and meet the team. Our team presented a warehouse security system called ‘Whemsley’ and represented Indira Gandhi Delhi Technical University, as one amongst the two teams from India.
+  desc: Every year Hilti organizes an IT competition to help solve some of the industry’s most pressing problems. The top seven Finalist Teams were selected from over 60+ countries and 140+ registrations. They were invited to Hilti Asia IT Services, Kuala Lumpur, Malaysia on an all-expenses paid three day trip to present their product in front of an esteemed panel of judges and meet the team. Our team presented a warehouse security system called ‘Whemsley’.
  
 - name: Recipient of Google India Challenge Scholarship ‘18
   i18n: 
@@ -15,7 +15,7 @@
   url: https://in.udacity.com/google-india-scholarships
   repo: 
   img: /static/assets/img/landing/udacity.jpg
-  desc: One amongst the 150 recipients of Mobile Web Specialist Track, in India.
+  desc: Google India Challenege Scholarship provides a scholarship for three month course in the field of Android app Development or Web Development. I was one amongst the 150 recipients of Mobile Web Specialist Track scholarship, in India.
   
  
 - name: Intel Higher Education Challenge '17

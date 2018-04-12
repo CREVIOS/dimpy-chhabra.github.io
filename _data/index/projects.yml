@@ -2,6 +2,13 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: <'Sup?> 
+  i18n: sup
+  gh_user: dimpy-chhabra
+  repo: sup
+  img: /static/assets/img/landing/sup.png
+  desc: Working on an analyzer to determine the diversity and bias of news sources on a news item and display the various viewpoints to the user.
+
 - name: Whemsley (Hilti IT Competition | Rank- Top 7)
   i18n: whemsley
   gh_user: dimpy-chhabra
