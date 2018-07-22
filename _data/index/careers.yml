@@ -13,7 +13,7 @@
   job:
     detail: ASDE - Intern at Expedia Groups.
     i18n: company_b_job
-  icon: far fa-check
+  icon: fas fa-star
 
 - name:
     detail: Winter Workshop on Data Science and Visualization
@@ -27,7 +27,7 @@
   job:
     detail: Trainee | Organizer
     i18n: company_b_job
-  icon: far fa-check
+  icon: fas fa-star
   
 - name:
     detail: ACM Student Chapter- Igdtuw
@@ -55,7 +55,7 @@
   job:
     detail: IOT Trainee
     i18n: company_b_job
-  icon: far fa-check
+  icon: fas fa-star
   
 - name:
     detail: Google CS
@@ -69,7 +69,7 @@
   job:
     detail: Student | Developer | Trainee
     i18n: company_a_job
-  icon: far fa-check
+  icon: fas fa-star
 
   
 - name:
@@ -113,7 +113,7 @@
   job:
     detail: Student | Trainee
     i18n: company_a_job
-  icon: far fa-check  
+  icon: fas fa-star 
   
   
 - name:
@@ -170,4 +170,4 @@
   job:
     detail: Student | Trainee
     i18n: company_a_job
-  icon: far fa-check
+  icon: fas fa-star
