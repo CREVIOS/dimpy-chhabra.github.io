@@ -2,6 +2,20 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Associate Software Development Engineer - Intern
+    i18n: company_b
+  desc:
+    detail: Worked in the e-Commerce Platform Team (eCP) directly with a Sr. SDE on Cloud Computing technologies. I was deeply involved in the technical architecure, and fully responsible for the development of a serverless version of the internal Cloud Messaging Platform at Expedia (Transaction Bridge) on AWS.
+    i18n: company_b_desc
+  date:
+    detail: June - July '18
+    i18n: company_b_date
+  job:
+    detail: ASDE - Intern at Expedia Groups.
+    i18n: company_b_job
+  icon: far fa-check
+
+- name:
     detail: Winter Workshop on Data Science and Visualization
     i18n: company_b
   desc:
