@@ -5,7 +5,7 @@
     detail: Associate Software Development Engineer - Intern at Expedia Groups
     i18n: company_b
   desc:
-    detail: Worked in the e-Commerce Platform Team (eCP) directly with a Sr. SDE on Cloud Computing technologies. I was deeply involved in the technical architecure, and fully responsible for the development of a serverless version of the internal Cloud Messaging Platform at Expedia (Transaction Bridge) on AWS.
+    detail: Worked in the e-Commerce Platform Team (eCP) directly with a Sr. SDE on Cloud Computing technologies. I was deeply involved in the technical architecture, and fully responsible for the development of a serverless version of the internal Cloud Messaging Platform at Expedia (Transaction Bridge) on AWS.
     i18n: company_b_desc
   date:
     detail: June - July '18
